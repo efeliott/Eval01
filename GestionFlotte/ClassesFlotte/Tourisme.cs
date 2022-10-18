@@ -33,9 +33,15 @@ namespace ClassesFlotte
             DateTime dateDernEnt = base.GetDernierEntretien().GetDateEntretien();
             DateTime dateActuelle = DateTime.Now;
             TimeSpan diffDates = dateActuelle.Subtract(dateDernEnt);
+            int dernierEnt = base.GetDernierEntretien().GetKmEntretien();
 
             if (diffDates.Days >= 720)
                 prevoirEnt = true;
+            else
+                if (dernierEnt >= 15000)
+                    prevoirEnt = true;
+                else
+                    prevoirEnt = false;
             return prevoirEnt;
         }
     }

@@ -9,3 +9,7 @@ C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFl
 C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.csproj.CopyComplete
 C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.dll
 C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.pdb
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.csproj.AssemblyReference.cache
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.csproj.CoreCompileInputs.cache
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.dll
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.pdb

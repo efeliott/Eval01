@@ -15,6 +15,13 @@ namespace ClassesFlotte
         /// <summary>
         /// Constructeur de la classe Utilitaire
         /// </summary>
+        public Utilitaire(int poidTAC, int poidAV, int place, string uneImmat, string uneEnergie, int unePuissance)
+            :base(uneImmat, uneEnergie, unePuissance)
+        {
+            int ptac = poidTAC;
+            int pav = poidAV;
+            int volume = place;
+        }
         
 
         /// <summary>
@@ -40,8 +47,9 @@ namespace ClassesFlotte
         /// <returns>charge utile en kg</returns>
         public int ChargeUtile()
         {
-            // TODO
-            return 0;
+            int chargeUtile;
+            chargeUtile = this.ptac - this.pav;
+            return chargeUtile;
         }
     }
 }

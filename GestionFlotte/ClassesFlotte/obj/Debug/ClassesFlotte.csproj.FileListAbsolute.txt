@@ -4,3 +4,9 @@ C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.
 C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.csproj.CoreCompileInputs.cache
 C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.dll
 C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.pdb
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotte\bin\Debug\ClassesFlotte.dll
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotte\bin\Debug\ClassesFlotte.pdb
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.csproj.AssemblyReference.cache
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.csproj.CoreCompileInputs.cache
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.dll
+C:\Users\fertille\Eval01\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.pdb
