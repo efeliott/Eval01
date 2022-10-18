@@ -1,0 +1,6 @@
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\bin\Debug\ClassesFlotte.dll
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\bin\Debug\ClassesFlotte.pdb
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.csproj.AssemblyReference.cache
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.dll
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotte\obj\Debug\ClassesFlotte.pdb

@@ -1,0 +1,11 @@
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\bin\Debug\ClassesFlotteTests.dll
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\bin\Debug\ClassesFlotteTests.pdb
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\bin\Debug\ClassesFlotte.dll
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\bin\Debug\ClassesFlotte.pdb
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.csproj.AssemblyReference.cache
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.csproj.CopyComplete
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.dll
+C:\Users\sophi\source\repos\GestionFlotte\ClassesFlotteTests\obj\Debug\ClassesFlotteTests.pdb
